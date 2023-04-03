@@ -5,14 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mocfaisal" alt="mocfaisal" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mocfaisal" target="blank"><img src="https://img.shields.io/twitter/follow/mocfaisal?logo=twitter&style=for-the-badge" alt="mocfaisal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SalzByte" target="blank"><img src="https://img.shields.io/twitter/follow/SalzByte?logo=twitter&style=for-the-badge" alt="SalzByte" /></a> </p>
 
 - 🌱 I’m currently learning **Laravel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mocfaisal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mocfaisal" height="30" width="40" /></a>
-<a href="https://twitter.com/mocfaisal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mocfaisal" height="30" width="40" /></a>
+<a href="https://twitter.com/SalzByte" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mocfaisal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mocfaisal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mocfaisal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10351006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10351006" height="30" width="40" /></a>
 <a href="https://fb.com/mocfaisal712" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mocfaisal712" height="30" width="40" /></a>
